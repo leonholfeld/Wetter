@@ -1,0 +1,152 @@
+[
+  {
+    "ts": "23.4.2026, 10:14:16",
+    "dwd": {
+      "stationen": {
+        "10400": {
+          "aktuell": {
+            "zeitpunkt": "23.4.2026, 10:00:00",
+            "temperatur_C": 10.9,
+            "niederschlag_mmh": 0,
+            "icon_code": 1
+          },
+          "tageswerte": [
+            {
+              "datum": "2026-04-23",
+              "temp_min_C": 2.3,
+              "temp_max_C": 18.3,
+              "wind_kmh": 130,
+              "sonnenschein_min": 770
+            },
+            {
+              "datum": "2026-04-24",
+              "temp_min_C": 4.1,
+              "temp_max_C": 16.6,
+              "wind_kmh": 130,
+              "sonnenschein_min": 601
+            },
+            {
+              "datum": "2026-04-25",
+              "temp_min_C": 4.5,
+              "temp_max_C": 17.1,
+              "wind_kmh": 111,
+              "sonnenschein_min": 627
+            }
+          ],
+          "warnungen": []
+        }
+      },
+      "nowcast": {
+        "anzahl": 0
+      },
+      "crowd": {
+        "anzahl": 445
+      }
+    },
+    "uba": {
+      "datum": "2026-04-23",
+      "stunde": 10,
+      "stationen": []
+    }
+  },
+  {
+    "ts": "23.4.2026, 10:15:34",
+    "dwd": {
+      "stationen": {
+        "10400": {
+          "aktuell": {
+            "zeitpunkt": "23.4.2026, 10:00:00",
+            "temperatur_C": 10.9,
+            "niederschlag_mmh": 0,
+            "icon_code": 1
+          },
+          "tageswerte": [
+            {
+              "datum": "2026-04-23",
+              "temp_min_C": 2.3,
+              "temp_max_C": 18.3,
+              "wind_kmh": 130,
+              "sonnenschein_min": 770
+            },
+            {
+              "datum": "2026-04-24",
+              "temp_min_C": 4.1,
+              "temp_max_C": 16.6,
+              "wind_kmh": 130,
+              "sonnenschein_min": 601
+            },
+            {
+              "datum": "2026-04-25",
+              "temp_min_C": 4.5,
+              "temp_max_C": 17.1,
+              "wind_kmh": 111,
+              "sonnenschein_min": 627
+            }
+          ],
+          "warnungen": []
+        }
+      },
+      "nowcast": {
+        "anzahl": 0
+      },
+      "crowd": {
+        "anzahl": 445
+      }
+    },
+    "uba": {
+      "datum": "2026-04-23",
+      "stunde": 10,
+      "stationen": []
+    }
+  },
+  {
+    "ts": "23.4.2026, 10:15:44",
+    "dwd": {
+      "stationen": {
+        "10400": {
+          "aktuell": {
+            "zeitpunkt": "23.4.2026, 10:00:00",
+            "temperatur_C": 10.9,
+            "niederschlag_mmh": 0,
+            "icon_code": 1
+          },
+          "tageswerte": [
+            {
+              "datum": "2026-04-23",
+              "temp_min_C": 2.3,
+              "temp_max_C": 18.3,
+              "wind_kmh": 130,
+              "sonnenschein_min": 770
+            },
+            {
+              "datum": "2026-04-24",
+              "temp_min_C": 4.1,
+              "temp_max_C": 16.6,
+              "wind_kmh": 130,
+              "sonnenschein_min": 601
+            },
+            {
+              "datum": "2026-04-25",
+              "temp_min_C": 4.5,
+              "temp_max_C": 17.1,
+              "wind_kmh": 111,
+              "sonnenschein_min": 627
+            }
+          ],
+          "warnungen": []
+        }
+      },
+      "nowcast": {
+        "anzahl": 0
+      },
+      "crowd": {
+        "anzahl": 445
+      }
+    },
+    "uba": {
+      "datum": "2026-04-23",
+      "stunde": 10,
+      "stationen": []
+    }
+  }
+]

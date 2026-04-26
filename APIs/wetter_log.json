@@ -148,5 +148,122 @@
       "stunde": 10,
       "stationen": []
     }
+  },
+  {
+    "abfrage_zeit": "26.4.2026, 14:44:48",
+    "dwd": {
+      "stationen_daten": {
+        "quelle": "DWD WarnWetter-App-API (dwd.api.bund.dev)",
+        "endpunkt": "https://app-prod-ws.warnwetter.de/v30/stationOverviewExtended",
+        "stationen": {
+          "10400": {
+            "aktuell": {
+              "zeitpunkt": "26.4.2026, 14:00:00",
+              "temperatur_C": 15.1,
+              "niederschlag_mmh": 0,
+              "icon_code": 2
+            },
+            "tageswerte": [
+              {
+                "datum": "2026-04-26",
+                "temp_min_C": 3.5,
+                "temp_max_C": 16.6,
+                "niederschlag_mm": 0,
+                "wind_kmh": 111,
+                "boeen_kmh": 278,
+                "windrichtung_grad": 250,
+                "sonnenschein_min": 762,
+                "icon_code": 1
+              },
+              {
+                "datum": "2026-04-27",
+                "temp_min_C": 3.9,
+                "temp_max_C": 18.3,
+                "niederschlag_mm": 0,
+                "wind_kmh": 111,
+                "boeen_kmh": 278,
+                "windrichtung_grad": 240,
+                "sonnenschein_min": 499,
+                "icon_code": 2
+              },
+              {
+                "datum": "2026-04-28",
+                "temp_min_C": 8.6,
+                "temp_max_C": 19.7,
+                "niederschlag_mm": 0,
+                "wind_kmh": 241,
+                "boeen_kmh": 463,
+                "windrichtung_grad": 440,
+                "sonnenschein_min": 632,
+                "icon_code": 2
+              }
+            ],
+            "warnungen": []
+          }
+        }
+      },
+      "gemeinde_warnungen": {
+        "stand": "26.4.2026, 14:42:41",
+        "anzahl_warnungen": 6,
+        "stichprobe": [
+          {
+            "event": "FROST",
+            "headline": "Amtliche WARNUNG vor FROST",
+            "level": 2
+          },
+          {
+            "event": "FROST",
+            "headline": "Amtliche WARNUNG vor FROST",
+            "level": 2
+          },
+          {
+            "event": "FROST",
+            "headline": "Amtliche WARNUNG vor FROST",
+            "level": 2
+          },
+          {
+            "event": "FROST",
+            "headline": "Amtliche WARNUNG vor FROST",
+            "level": 2
+          },
+          {
+            "event": "FROST",
+            "headline": "Amtliche WARNUNG vor FROST",
+            "level": 2
+          }
+        ]
+      },
+      "nowcast_warnungen": {
+        "stand": "26.4.2026, 14:39:55",
+        "anzahl_warnungen": 0
+      },
+      "crowd_meldungen": {
+        "gueltig_bis": "26.4.2026, 14:44:17",
+        "anzahl_meldungen": 754,
+        "hoechste_schwere": [
+          {
+            "kategorie": "WIND",
+            "auspraegung": "WIND_STARK"
+          },
+          {
+            "kategorie": "BEWOELKUNG",
+            "auspraegung": "BEWOELKUNG_BEDECKT"
+          }
+        ]
+      }
+    },
+    "uba": {
+      "quelle": "Umweltbundesamt Luftdaten API v4",
+      "abfrage_datum": "2026-04-26",
+      "abfrage_stunde": 14,
+      "lqi_skala": {
+        "1": "sehr gut",
+        "2": "gut",
+        "3": "maessig",
+        "4": "schlecht",
+        "5": "sehr schlecht"
+      },
+      "stationen": []
+    }
   }
 ]
